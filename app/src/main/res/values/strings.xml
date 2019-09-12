@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SubmissionCatalogMovie</string>
+    <string name="details_title">tittle</string>
+    <string name="details_release">release</string>
+    <string name="details_description">details</string>
+    <string name="movies_name">name</string>
+    <string name="movies_detail">detail</string>
+    <string name="DetailPage">Detail Page</string>
+</resources>
